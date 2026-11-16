@@ -1,4 +1,4 @@
-READ all the README.txt s !
+READ all the README.md s !
 
 Create the files
 
