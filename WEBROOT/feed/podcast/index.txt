@@ -1,0 +1,1049 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+xmlns:podcast="https://podcastindex.org/namespace/1.0"
+xmlns:rawvoice="https://we-wont-promote-this/developer/rawvoice-rss/"
+>
+<channel>
+	<title>Vermont Movement News</title>
+	<atom:link href="https://www.vermontmovementnews.org/feed/podcast/" rel="self" type="application/rss+xml" />
+	<link>https://www.vermontmovementnews.org</link>
+	<description>News and Analysis</description>
+	<lastBuildDate>Sun, 15 Nov 2026 02:00:13 -0500</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+		<generator>Custom Script</generator>
+	<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
+	<itunes:author>Vermont Movement News</itunes:author>
+	<itunes:explicit>true</itunes:explicit>
+	<itunes:image href="https://www.vermontmovementnews.org/wp-content/uploads/2019/07/vermontmovementnews-cover-art.png" />
+	<itunes:type>episodic</itunes:type>
+	<itunes:owner>
+		<itunes:name>Vermont Movement News</itunes:name>
+		<itunes:email>catskillmarina@gmail.com</itunes:email>
+	</itunes:owner>
+	<podcast:medium>podcast</podcast:medium>
+	<image>
+		<title>Vermont Movement News</title>
+		<url>https://www.vermontmovementnews.org/wp-content/uploads/2019/07/vermontmovementnews-cover-art.png</url>
+		<link>https://www.vermontmovementnews.org</link>
+	</image>
+	<rawvoice:location>NDakina</rawvoice:location>
+	<podcast:location rel="subject">NDakina</podcast:location>
+	<podcast:podping usesPodping="true" />
+	<podcast:guid>2f488c99-28a1-5eb4-a3cd-e00f3d414249</podcast:guid>
+        <item>
+                <title>Defense of the Unhoused Camp in Burlington Vermont
+</title>
+                <link>https://www.vermontmovementnews.org/episodes/2026-11-14-00/Episode-55-BTV-Unhoused-Camp-Defense.mp3
+</link>
+                <pubDate>Sun, 15 Nov 2026 00:30:49 -0500</pubDate>
+                <guid isPermaLink="false">https://www.vermontmovementnews.org/episodes/2026-11-14-00/Episode-55-BTV-Unhoused-Camp-Defense.mp3
+</guid>
+                <description><![CDATA[
+In the wake of the March 11 defense against an ICE kidnapping, BTV organizers
+helped defend an unhoused camp from demolition by the forces of Progressive
+Mayor Emma Mulvaney Stanek. This is a discussion of tactics, whiteness in 
+so-called Vermont and the hope of more community resistance against oppression.
+Great Episode !
+]]></description>
+                <enclosure url="https://www.vermontmovementnews.org/episodes/2026-11-14-00/Episode-55-BTV-Unhoused-Camp-Defense.mp3
+" length="37876008" type="audio/mpeg" />
+                <itunes:author>Vermont Movement News</itunes:author>
+                <itunes:episodeType>full</itunes:episodeType>
+                <itunes:explicit>false</itunes:explicit>
+                <itunes:duration>3179</itunes:duration>
+        </item>
+        <item>
+                <title>From Alvarado TX with the Prairieland defendants to Spokane Washington to Minneapolis the anti-antifa witch hunt is in full force. Even in sleepy so called vermont these prosecutions are festering.
+</title>
+                <link>https://www.vermontmovementnews.org/episodes/2026-07-09-00/Episode-54.mp3
+</link>
+                <pubDate>Thu, 09 Jul 2026 00:00:00 -0400</pubDate>
+                <guid isPermaLink="false">https://www.vermontmovementnews.org/episodes/2026-07-09-00/Episode-54.mp3
+</guid>
+                <description><![CDATA[
+Community defenders are being prosecuted from Dallas TX to Minneapolis and Spokane. That's in the news. What is not being talked about is that under the cover of silence brave community defenders are also facing prosecution for standing up to the masked thugs of ICE in so-called Vermont.
+]]></description>
+                <enclosure url="https://www.vermontmovementnews.org/episodes/2026-07-09-00/Episode-54.mp3
+" length="9891023" type="audio/mpeg" />
+                <itunes:author>Vermont Movement News</itunes:author>
+                <itunes:episodeType>full</itunes:episodeType>
+                <itunes:explicit>false</itunes:explicit>
+                <itunes:duration>740</itunes:duration>
+        </item>
+        <item>
+                <title>The Fourth of You Lie ! - 250 years of genocide.
+</title>
+                <link>https://www.vermontmovementnews.org/episodes/2026-07-04-00/Vol5_Ep3.mp3
+</link>
+                <pubDate>Sat, 04 Jul 2026 00:00:00 -0400</pubDate>
+                <guid isPermaLink="false">https://www.vermontmovementnews.org/episodes/2026-07-04-00/Vol5_Ep3.mp3
+</guid>
+                <description><![CDATA[
+It's the Fourth of You Lie. Anti-Colonial truths from Coyote Woman and Frederick
+Douglass's speach on the 4th of July 1852.
+]]></description>
+                <enclosure url="https://www.vermontmovementnews.org/episodes/2026-07-04-00/Vol5_Ep3.mp3
+" length="56841702" type="audio/mpeg" />
+                <itunes:author>Vermont Movement News</itunes:author>
+                <itunes:episodeType>full</itunes:episodeType>
+                <itunes:explicit>false</itunes:explicit>
+                <itunes:duration>4224</itunes:duration>
+        </item>
+        <item>
+                <title>A Discussion with Peace and Freedom Party candidate for Governor - June Goodband.
+</title>
+                <link>https://www.vermontmovementnews.org/episodes/2026-05-22-00/Vol_5_Ep2_June_Goodband.mp3
+</link>
+                <pubDate>Fri, 22 May 2026 00:00:00 -0400</pubDate>
+                <guid isPermaLink="false">https://www.vermontmovementnews.org/episodes/2026-05-22-00/Vol_5_Ep2_June_Goodband.mp3
+</guid>
+                <description><![CDATA[
+A discussion with (Green Mountain) Peace and Justice candidate June Goodband
+about creating a better society.
+]]></description>
+                <enclosure url="https://www.vermontmovementnews.org/episodes/2026-05-22-00/Vol_5_Ep2_June_Goodband.mp3
+" length="36675600" type="audio/mpeg" />
+                <itunes:author>Vermont Movement News</itunes:author>
+                <itunes:episodeType>full</itunes:episodeType>
+                <itunes:explicit>false</itunes:explicit>
+                <itunes:duration>3740</itunes:duration>
+        </item>
+        <item>
+                <title>A letter from a neighbor to Vermont !
+</title>
+                <link>https://www.vermontmovementnews.org/episodes/2026-03-17-00/Vol5_Ep1.mp3
+</link>
+                <pubDate>Sat, 21 Mar 2026 00:55:44 -0400</pubDate>
+                <guid isPermaLink="false">https://www.vermontmovementnews.org/episodes/2026-03-17-00/Vol5_Ep1.mp3
+</guid>
+                <description><![CDATA[
+<p>This is a letter to Vermont from a neighbor deeply effected by immigration enforcement and the violence around it.</p>
+]]></description>
+                <enclosure url="https://www.vermontmovementnews.org/episodes/2026-03-17-00/Vol5_Ep1.mp3
+" length="9231687" type="audio/mpeg" />
+                <itunes:author>Vermont Movement News</itunes:author>
+                <itunes:episodeType>full</itunes:episodeType>
+                <itunes:explicit>false</itunes:explicit>
+                <itunes:duration>714</itunes:duration>
+        </item>
+        <item>
+                <title>No Coal No GAS, Stop Project Maple
+</title>
+                <link>https://www.vermontmovementnews.org/episodes/2024-08-25-00/Vol_4_Ep4_No_Coal_No_Gas.mp3
+</link>
+                <pubDate>Mon, 29 Jul 2024 02:22:39 +0000</pubDate>
+                <guid isPermaLink="false">https://www.vermontmovementnews.org/episodes/2024-08-25-00/Vol_4_Ep4_No_Coal_No_Gas.mp3
+</guid>
+                <description><![CDATA[
+In this episode co-hosted by tank-girl we talk with various activists from No Coal No gas where they describe their latest action as well as the exciting Stop Project Maple tree sit. We also discuss Land Back and various related issues.
+]]></description>
+                <enclosure url="https://www.vermontmovementnews.org/episodes/2024-08-25-00/Vol_4_Ep4_No_Coal_No_Gas.mp3
+" length="115430659" type="audio/mpeg" />
+                <itunes:author>Vermont Movement News</itunes:author>
+                <itunes:episodeType>full</itunes:episodeType>
+                <itunes:explicit>false</itunes:explicit>
+                <itunes:duration>4811</itunes:duration>
+        </item>
+        <item>
+                <title>Talking about Alex Stokes
+</title>
+                <link>https://www.vermontmovementnews.org/episodes/2024-07-29-00/Vol4-Ep3-Talking-about-Alex-Stokes.mp3
+</link>
+                <pubDate>Mon, 29 Jul 2024 00:55:44 -0400</pubDate>
+                <guid isPermaLink="false">https://www.vermontmovementnews.org/episodes/2024-07-29-00/Vol4-Ep3-Talking-about-Alex-Stokes.mp3
+</guid>
+                <description><![CDATA[
+In this episode we talk about the case of Alex Stokes an journalist who has been imprisoned for 20 years under highly questionable circumstances.
+]]></description>
+                <enclosure url="https://www.vermontmovementnews.org/episodes/2024-07-29-00/Vol4-Ep3-Talking-about-Alex-Stokes.mp3
+" length="87422301" type="audio/mpeg" />
+                <itunes:author>Vermont Movement News</itunes:author>
+                <itunes:episodeType>full</itunes:episodeType>
+                <itunes:explicit>false</itunes:explicit>
+                <itunes:duration>3644</itunes:duration>
+        </item>
+        <item>
+                <title>Neo-Nazi Terrorism and Countercultural Fascism: The Origins and Afterlife of James Mason's/Siege - by Spencer Sunshine
+</title>
+                <link>https://www.vermontmovementnews.org/episodes/2024-05-20-00/Vol4_Ep2.mp3
+</link>
+                <pubDate>Mon, 20 May 2024 00:00:00 -0400</pubDate>
+                <guid isPermaLink="false">https://www.vermontmovementnews.org/episodes/2024-05-20-00/Vol4_Ep2.mp3
+</guid>
+                <description><![CDATA[
+In this episode we discuss Spencer Sunshine's new book -Neo-Nazi Terrorism and Countercultural Fascism: The Origins and Afterlife of James Mason's/Siege with the host and Daryle Lamont Jenkins.
+
+The book can be found at <a href="https://www.routledge.com/Neo-Nazi-Terrorism-and-Countercultural-Fascism-The-Origins-and-Afterlife-of-James-Masons-Siege/Sunshine/p/book/9780367190606">https://www.routledge.com/Neo-Nazi-Terrorism-and-Countercultural-Fascism-The-Origins-and-Afterlife-of-James-Masons-Siege/Sunshine/p/book/9780367190606</a>
+]]></description>
+                <enclosure url="https://www.vermontmovementnews.org/episodes/2024-05-20-00/Vol4_Ep2.mp3
+" length="123939569" type="audio/mpeg" />
+                <itunes:author>Vermont Movement News</itunes:author>
+                <itunes:episodeType>full</itunes:episodeType>
+                <itunes:explicit>false</itunes:explicit>
+                <itunes:duration>5165</itunes:duration>
+        </item>
+        <item>
+                <title>Reflections and Regrets from 80-s Student activism
+</title>
+                <link>https://www.vermontmovementnews.org/episodes/2024-05-08-00/Vol4_Ep1-reflections-and-regrets.mp3
+</link>
+                <pubDate>Wed, 08 May 2024 10:45:54 +0000</pubDate>
+                <guid isPermaLink="false">https://www.vermontmovementnews.org/episodes/2024-05-08-00/Vol4_Ep1-reflections-and-regrets.mp3
+</guid>
+                <description><![CDATA[
+The VMN narrator shares her reflections and regrets about the 1980's Pro-Palestinian and anti-apartheid movement. It's basically a rant about the Kangaroo courts going on at the University of Vermont with their disciplinary hearings.
+]]></description>
+                <enclosure url="https://www.vermontmovementnews.org/episodes/2024-05-08-00/Vol4_Ep1-reflections-and-regrets.mp3
+" length="23520542" type="audio/mpeg" />
+                <itunes:author>Vermont Movement News</itunes:author>
+                <itunes:episodeType>full</itunes:episodeType>
+                <itunes:explicit>false</itunes:explicit>
+                <itunes:duration>981</itunes:duration>
+        </item>
+        <item>
+                <title>discussion with authors of the statement at leftrenewal.net
+</title>
+                <link>https://www.vermontmovementnews.org/episodes/2024-01-20-00/Vol3_Ep30_A_Discussion_With_leftrenewal_dot_net.mp3
+</link>
+                <pubDate>Sat, 20 Jan 2024 00:00:00 -0500</pubDate>
+                <guid isPermaLink="false">https://www.vermontmovementnews.org/episodes/2024-01-20-00/Vol3_Ep30_A_Discussion_With_leftrenewal_dot_net.mp3
+</guid>
+                <description><![CDATA[
+In this episode we discuss the statement at leftrenewal.net with 2 of the 3 authors. The statement, which was read in its entirety in volume 3 episode 29 talks about antisemetism on the left and various problems with the current left movement. The statement which was prompted by uncritical support for the Oct 7 2023 attack by Hamas on Israel has gained unexpected attention.
+]]></description>
+                <enclosure url="https://www.vermontmovementnews.org/episodes/2024-01-20-00/Vol3_Ep30_A_Discussion_With_leftrenewal_dot_net.mp3
+" length="94344719" type="audio/mpeg" />
+                <itunes:author>Vermont Movement News</itunes:author>
+                <itunes:episodeType>full</itunes:episodeType>
+                <itunes:explicit>false</itunes:explicit>
+                <itunes:duration>3932</itunes:duration>
+        </item>
+        <item>
+                <title>This episode is a reading of the statement at leftrenewal.net and a plug to raise funds for ddosecrets.com - a very important internet library of leaked and hacked documents.
+</title>
+                <link>https://www.vermontmovementnews.org/episodes/2024-01-15-00/Volume3_Episode29.mp3
+</link>
+                <pubDate>Tue, 16 Jan 2024 00:00:00 -0500</pubDate>
+                <guid isPermaLink="false">https://www.vermontmovementnews.org/episodes/2024-01-15-00/Volume3_Episode29.mp3
+</guid>
+                <description><![CDATA[
+This episode is a reading of the statement at leftrenewal.net and a plug to raise funds for ddosecrets which is a very important library of leaked and hacked documents.
+]]></description>
+                <enclosure url="https://www.vermontmovementnews.org/episodes/2024-01-15-00/Volume3_Episode29.mp3
+" length="81946127" type="audio/mpeg" />
+                <itunes:author>Vermont Movement News</itunes:author>
+                <itunes:episodeType>full</itunes:episodeType>
+                <itunes:explicit>false</itunes:explicit>
+                <itunes:duration>3415</itunes:duration>
+        </item>
+        <item>
+                <title>The Free Speech Case of Lee Morrigan
+</title>
+                <link>https://www.vermontmovementnews.org/episodes/2024-01-13-00/VMN-Vol3-Episode28-Lee-Morrigan-and-Free-Speech-final.mp3
+</link>
+                <pubDate>Sat, 13 Jan 2024 00:00:00 -0500</pubDate>
+                <guid isPermaLink="false">https://www.vermontmovementnews.org/episodes/2024-01-13-00/VMN-Vol3-Episode28-Lee-Morrigan-and-Free-Speech-final.mp3
+</guid>
+                <description><![CDATA[
+In this episode we discuss the free speech case of Lee Morrigan who was hauled in front of a Vermont Secret Inquest in the effort to compel them to reveal a journalistic source. We also discuss some of the right wingers constantly try to go after Lee as an open trans person.
+]]></description>
+                <enclosure url="https://www.vermontmovementnews.org/episodes/2024-01-13-00/VMN-Vol3-Episode28-Lee-Morrigan-and-Free-Speech-final.mp3
+" length="107315938" type="audio/mpeg" />
+                <itunes:author>Vermont Movement News</itunes:author>
+                <itunes:episodeType>full</itunes:episodeType>
+                <itunes:explicit>false</itunes:explicit>
+                <itunes:duration>4472</itunes:duration>
+        </item>
+        <item>
+                <title>Olivia Taylor describing the citation of Bill Oetjen for stickering - The Sticker War.
+</title>
+                <link>https://www.vermontmovementnews.org/episodes/2023-12-28-00/Vol_3_Ep_27_Discussing_Sticker_Wars_with_Olivia_Taylor.mp3
+</link>
+                <pubDate>Thu, 28 Dec 2023 00:00:00 -0500</pubDate>
+                <guid isPermaLink="false">https://www.vermontmovementnews.org/episodes/2023-12-28-00/Vol_3_Ep_27_Discussing_Sticker_Wars_with_Olivia_Taylor.mp3
+</guid>
+                <description><![CDATA[
+Olivia Taylor tells the story behind the recent citation of Bill Oetjen for putting up bigoted stickers all over Burlington Vermont.
+]]></description>
+                <enclosure url="https://www.vermontmovementnews.org/episodes/2023-12-28-00/Vol_3_Ep_27_Discussing_Sticker_Wars_with_Olivia_Taylor.mp3
+" length="75941486" type="audio/mpeg" />
+                <itunes:author>Vermont Movement News</itunes:author>
+                <itunes:episodeType>full</itunes:episodeType>
+                <itunes:explicit>false</itunes:explicit>
+                <itunes:duration>3165</itunes:duration>
+        </item>
+        <item>
+                <title>Meghan O'Rourke and Daryle Lamont Jenkins on Free Speech.
+</title>
+                <link>https://www.vermontmovementnews.org/episodes/2023-11-26-00/Vol3_Ep26_Daryle_Lamont_Jenkins_discusses_free_speech_on_Ch17.mp3
+</link>
+                <pubDate>Sun, 26 Nov 2023 00:00:00 -0500</pubDate>
+                <guid isPermaLink="false">https://www.vermontmovementnews.org/episodes/2023-11-26-00/Vol3_Ep26_Daryle_Lamont_Jenkins_discusses_free_speech_on_Ch17.mp3
+</guid>
+                <description><![CDATA[
+This episode is a rebroadcast of a discussion between Meghan O'Rourke and Daryle Lamont Jenkins regarding free speech and an intro on what the One People's Project does to oppose fascism, fascists and racists.
+]]></description>
+                <enclosure url="https://www.vermontmovementnews.org/episodes/2023-11-26-00/Vol3_Ep26_Daryle_Lamont_Jenkins_discusses_free_speech_on_Ch17.mp3
+" length="24437545" type="audio/mpeg" />
+                <itunes:author>Vermont Movement News</itunes:author>
+                <itunes:episodeType>full</itunes:episodeType>
+                <itunes:explicit>false</itunes:explicit>
+                <itunes:duration>2199</itunes:duration>
+        </item>
+        <item>
+                <title>Epona Rose speaks out.
+</title>
+                <link>https://www.vermontmovementnews.org/episodes/2023-11-11-00/Vol3_Episode25_Epona_Rose.mp3
+</link>
+                <pubDate>Sat, 11 Nov 2023 00:00:00 -0500</pubDate>
+                <guid isPermaLink="false">https://www.vermontmovementnews.org/episodes/2023-11-11-00/Vol3_Episode25_Epona_Rose.mp3
+</guid>
+                <description><![CDATA[
+Epona Rose speaks out about transphobia and her recent assault and arrest for self-defense in so called Flagstaff Arizona. There are some issues with the sound quality but i have done my best to make this listen-able. Trigger warnings for sexual assault, abusive jail conditions and transphobia apply.
+]]></description>
+                <enclosure url="https://www.vermontmovementnews.org/episodes/2023-11-11-00/Vol3_Episode25_Epona_Rose.mp3
+" length="32963974" type="audio/mpeg" />
+                <itunes:author>Vermont Movement News</itunes:author>
+                <itunes:episodeType>full</itunes:episodeType>
+                <itunes:explicit>false</itunes:explicit>
+                <itunes:duration>2439</itunes:duration>
+        </item>
+        <item>
+                <title>Discussion at YIVO of left wing antisemetism
+</title>
+                <link>https://www.vermontmovementnews.org/episodes/2023-10-17-00/Leftists-on-Left-Wing-Antisemitism-panel.mp3
+</link>
+                <pubDate>Tue, 17 Oct 2023 00:00:00 -0400</pubDate>
+                <guid isPermaLink="false">https://www.vermontmovementnews.org/episodes/2023-10-17-00/Leftists-on-Left-Wing-Antisemitism-panel.mp3
+</guid>
+                <description><![CDATA[
+The horrors coming out of Israel/Palestine have been bringing out the worst in many people.  The attacks on Israeli civilians and the corresponding wholescale killing of Palestinian civilians in Gaza has created fertile ground for Islamophobia and antisemetism.  In this episode i am rebroadcasting a discussion of Antisemetism on the left that was initially recorded on Tuesday May 4, 2021 at YIVO Institute for Jewish Research. Many thanks to Spencer Sunshine and YIVO for permission to use this material. It is especially relevant at the present moment.  The original video can be found at https://yivo.org/Leftists and athttps://spencersunshine.com/2021/04/06/yivo-las/ .
+]]></description>
+                <enclosure url="https://www.vermontmovementnews.org/episodes/2023-10-17-00/Leftists-on-Left-Wing-Antisemitism-panel.mp3
+" length="64742188" type="audio/mpeg" />
+                <itunes:author>Vermont Movement News</itunes:author>
+                <itunes:episodeType>full</itunes:episodeType>
+                <itunes:explicit>false</itunes:explicit>
+                <itunes:duration>5502</itunes:duration>
+        </item>
+        <item>
+                <title>The Brawl in BTV.
+</title>
+                <link>https://www.vermontmovementnews.org/episodes/2023-10-11-00/Vol3_Ep24-The-Brawl-In-BTV.mp3
+</link>
+                <pubDate>Wed, 11 Oct 2023 00:00:00 -0400</pubDate>
+                <guid isPermaLink="false">https://www.vermontmovementnews.org/episodes/2023-10-11-00/Vol3_Ep24-The-Brawl-In-BTV.mp3
+</guid>
+                <description><![CDATA[
+Conversation about Free Speech with Sandy Baird and Marina Brown 10/11/2023 - A discussion about free speech and it's limits turns into a callout for Sandy platforming the anti-trans group LGB Alliance. 
+]]></description>
+                <enclosure url="https://www.vermontmovementnews.org/episodes/2023-10-11-00/Vol3_Ep24-The-Brawl-In-BTV.mp3
+" length="33046439" type="audio/mpeg" />
+                <itunes:author>Vermont Movement News</itunes:author>
+                <itunes:episodeType>full</itunes:episodeType>
+                <itunes:explicit>false</itunes:explicit>
+                <itunes:duration>2542</itunes:duration>
+        </item>
+        <item>
+                <title>Talking with the Grassroots social and cultural center in Wroclaw Poland.
+</title>
+                <link>https://www.vermontmovementnews.org/episodes/2023-09-27-00/Vol3_Episode22.mp3
+</link>
+                <pubDate>Wed, 27 Sep 2023 00:00:00 -0400</pubDate>
+                <guid isPermaLink="false">https://www.vermontmovementnews.org/episodes/2023-09-27-00/Vol3_Episode22.mp3
+</guid>
+                <description><![CDATA[
+In this episode we talk with Krzysztof from the Oddolne Centrum Spoleczno Kulturalne or Grassroots Social and Cultural Center in Wroclaw Poland. The center has come under repeated attack by neo-nazis but it continues to do it's good work. https://ocsk-postoj.wspolneoparcie.org/
+]]></description>
+                <enclosure url="https://www.vermontmovementnews.org/episodes/2023-09-27-00/Vol3_Episode22.mp3
+" length="27822027" type="audio/mpeg" />
+                <itunes:author>Vermont Movement News</itunes:author>
+                <itunes:episodeType>full</itunes:episodeType>
+                <itunes:explicit>false</itunes:explicit>
+                <itunes:duration>2567</itunes:duration>
+        </item>
+        <item>
+                <title>Antifascist: A Memoir of the Portland Uprising, 2016-2021
+</title>
+                <link>https://www.vermontmovementnews.org/episodes/2023-09-19-00/Volume3_Episode21.mp3
+</link>
+                <pubDate>Mon, 18 Sep 2023 00:00:00 -0400</pubDate>
+                <guid isPermaLink="false">https://www.vermontmovementnews.org/episodes/2023-09-19-00/Volume3_Episode21.mp3
+</guid>
+                <description><![CDATA[
+In this episode we discuss the book -  Antifascist: A Memoir of the Portland Uprising, 2016-2021, by Luis Enrique Marquez. We discuss the ups and downs of being an antifascist in Portland and some of the many controversies Luis has gotten involved in during his activist career. Daryle Lamont Jenkins - Executive Director of the One Peoples Project is co-host. Luis is the author of the book who graciously agreed to come talk on VMN !
+]]></description>
+                <enclosure url="https://www.vermontmovementnews.org/episodes/2023-09-19-00/Volume3_Episode21.mp3
+" length="55423000" type="audio/mpeg" />
+                <itunes:author>Vermont Movement News</itunes:author>
+                <itunes:episodeType>full</itunes:episodeType>
+                <itunes:explicit>false</itunes:explicit>
+                <itunes:duration>4956</itunes:duration>
+        </item>
+        <item>
+                <title>Talking with The Polish Grannies !
+</title>
+                <link>https://www.vermontmovementnews.org/episodes/2023-08-29-00/Talking-With-Polskie-Babscie-The-Polish-Grannies.mp3
+</link>
+                <pubDate>Tue, 29 Aug 2023 00:00:00 -0400</pubDate>
+                <guid isPermaLink="false">https://www.vermontmovementnews.org/episodes/2023-08-29-00/Talking-With-Polskie-Babscie-The-Polish-Grannies.mp3
+</guid>
+                <description><![CDATA[
+In this episode we talk with Polskie Babscie - The Polish Grannies about the situation in Poland and the importance of the upcoming elections. The Polish Grannies have stood against the far right ruling party - PIS and it's bigotry in the streets. Polskie Babscie shows that antifascism is not just for the young !
+]]></description>
+                <enclosure url="https://www.vermontmovementnews.org/episodes/2023-08-29-00/Talking-With-Polskie-Babscie-The-Polish-Grannies.mp3
+" length="37339821" type="audio/mpeg" />
+                <itunes:author>Vermont Movement News</itunes:author>
+                <itunes:episodeType>full</itunes:episodeType>
+                <itunes:explicit>false</itunes:explicit>
+                <itunes:duration>3153</itunes:duration>
+        </item>
+        <item>
+                <title>Free Epona Rose !!
+</title>
+                <link>https://www.vermontmovementnews.org/episodes/2023-08-25-00/ACAB-in-Flagstaff-Free-Epona-Rose.mp3
+</link>
+                <pubDate>Fri, 25 Aug 2023 00:00:00 -0400</pubDate>
+                <guid isPermaLink="false">https://www.vermontmovementnews.org/episodes/2023-08-25-00/ACAB-in-Flagstaff-Free-Epona-Rose.mp3
+</guid>
+                <description><![CDATA[
+In this episode we discuss the situation of Epona Rose who was arrested for defending herself from a hateful attack. All this is happening in the backdrop of centuries of ONGOING oppression of the indigenous population by the colonial authorities. Colonialism and imperialism continues to poison the hearts of many living under them.
+]]></description>
+                <enclosure url="https://www.vermontmovementnews.org/episodes/2023-08-25-00/ACAB-in-Flagstaff-Free-Epona-Rose.mp3
+" length="47063277" type="audio/mpeg" />
+                <itunes:author>Vermont Movement News</itunes:author>
+                <itunes:episodeType>full</itunes:episodeType>
+                <itunes:explicit>false</itunes:explicit>
+                <itunes:duration>3929</itunes:duration>
+        </item>
+        <item>
+                <title>Discussion of the Andy Ngo trial with Lauren Regen.
+</title>
+                <link>https://www.vermontmovementnews.org/episodes/2023-08-17-00/Lauren_Regen_Talks_About_The_Andy_Ngo_trial.mp3
+</link>
+                <pubDate>Thu, 17 Aug 2023 00:00:00 -0400</pubDate>
+                <guid isPermaLink="false">https://www.vermontmovementnews.org/episodes/2023-08-17-00/Lauren_Regen_Talks_About_The_Andy_Ngo_trial.mp3
+</guid>
+                <description><![CDATA[
+In Vol 3 Episode 18 VMN discusses the Andy Ngo trial, legal issues around protest and free speech and the need for digital security.
+]]></description>
+                <enclosure url="https://www.vermontmovementnews.org/episodes/2023-08-17-00/Lauren_Regen_Talks_About_The_Andy_Ngo_trial.mp3
+" length="39821087" type="audio/mpeg" />
+                <itunes:author>Vermont Movement News</itunes:author>
+                <itunes:episodeType>full</itunes:episodeType>
+                <itunes:explicit>false</itunes:explicit>
+                <itunes:duration>3252</itunes:duration>
+        </item>
+        <item>
+                <title>CCTV Interviews Marina Brown about VTLEAKS
+</title>
+                <link>https://www.vermontmovementnews.org/episodes/2023-07-21-00/Vol3_Ep17.mp3
+</link>
+                <pubDate>Fri, 21 Jul 2023 00:00:00 -0400</pubDate>
+                <guid isPermaLink="false">https://www.vermontmovementnews.org/episodes/2023-07-21-00/Vol3_Ep17.mp3
+</guid>
+                <description><![CDATA[
+<p>This episode contains a recording of a CCTV interview of Marina Brown<br>regarding VTLEAKS.</p>
+<p>This is the description from cctv.org</p>
+<h2>The recording will be presented in whole as it was.</h2>
+<p>Host Meghan O'Rourke interviews Marina Brown about VT Leaks, Vermont Transparency and Accountability.</p>
+<p>For more information visit: www.vtleaks.org/</p>
+<p>Production Date: 05/19/2023</p>
+<p>WORKER<br>Jordan Mitchell</p>
+<p>Creative commons licensed &#8211; on the CCTV website and<br>on youtube.</p>
+<p>Attribution-NonCommercial-ShareAlike 4.0 International</p>
+]]></description>
+                <enclosure url="https://www.vermontmovementnews.org/episodes/2023-07-21-00/Vol3_Ep17.mp3
+" length="24128105" type="audio/mpeg" />
+                <itunes:author>Vermont Movement News</itunes:author>
+                <itunes:episodeType>full</itunes:episodeType>
+                <itunes:explicit>false</itunes:explicit>
+                <itunes:duration>1898</itunes:duration>
+        </item>
+        <item>
+                <title>PHILADELPHIA, PA - Forum: Fighting Back Against Fascism and the Far Right feat. Daryle Lamont Jenkins, John Leslie and Brittany 
+</title>
+                <link>https://www.vermontmovementnews.org/episodes/2023-07-20-00/vol_3-ep_16-Final.mp3
+</link>
+                <pubDate>Thu, 20 Jul 2023 00:00:00 -0400</pubDate>
+                <guid isPermaLink="false">https://www.vermontmovementnews.org/episodes/2023-07-20-00/vol_3-ep_16-Final.mp3
+</guid>
+                <description><![CDATA[
+<p>Tue Jul 18th 6:30pm 9:00pm (EDT)<br>William Way LGBT Community Center,<br>1315 Spruce St, Philadelphia, PA 19107, USA<br></p>
+<p>Forum: Fighting Back Against Fascism and the Far Right</p>
+<p>Workers' Voice presents a panel discussion on the rise of the far right, the current offensive against queer and trans people, and how we can fight back.</p>
+<p>Speakers:</p>
+<p>Daryle Lamont Jenkins - antifascist researcher, founder and executive director of One People's Project, and editor of Idavox.</p>
+<p>John Leslie - labor, socialist, and antifascist activist, Workers' Voice.</p>
+<p>Brittany W. - educator speaking on the far-right offensive against LGBTQ people in the schools.</p>
+<p>Racism, anti-Semitism, sexism, homophobia, and transphobia are on the rise - stoked by lies and conspiracy theories. The result is a sharp increase in hate crimes against oppressed peoples. This hate is being brought forth not only by violent fascists like the Proud Boys and Patriot Front but also by groups like Moms for Liberty and politicians of the GOP. Trumpism has set these forces in motion in recent years, but the roots of the current far-right surge go deeper into the history of racism that is so ingrained in U.S. capitalist society.</p>
+<p>White supremacist ideas like the "great replacement theory" and Christian nationalism are being mainstreamed in one of the two bourgeois parties, as the Republicans increasingly take on features of a far-right party. But the Democratic Party, the traditional party of slavery and Jim Crow segregation, likewise facilitates the current climate of prejudice, as it seeks to maintain the status quo on behalf of capitalism. The Biden administration's clamping down against Latino and Haitian migrants on the border is one example of its reactionary policies.</p>
+<p>Stopping the far right will take a mass movement of millions. Cops, capitalist courts, and liberal politicians won't save us. The key to opposing the far right is independent, united front mass counter-mobilization by the working class and oppressed. It also means exercising our right to self-defense in an organized way.</p>
+]]></description>
+                <enclosure url="https://www.vermontmovementnews.org/episodes/2023-07-20-00/vol_3-ep_16-Final.mp3
+" length="42325476" type="audio/mpeg" />
+                <itunes:author>Vermont Movement News</itunes:author>
+                <itunes:episodeType>full</itunes:episodeType>
+                <itunes:explicit>false</itunes:explicit>
+                <itunes:duration>4343</itunes:duration>
+        </item>
+        <item>
+                <title>A discussion with with Alexander Reid Ross regarding MAGA Communism.
+</title>
+                <link>https://www.vermontmovementnews.org/episodes/2023-07-15-00/Vol_3_Ep_15.mp3
+</link>
+                <pubDate>Sat, 15 Jul 2023 00:00:00 -0400</pubDate>
+                <guid isPermaLink="false">https://www.vermontmovementnews.org/episodes/2023-07-15-00/Vol_3_Ep_15.mp3
+</guid>
+                <description><![CDATA[
+I discuss the phenomenon of Patriotic Socialism, MAGA Communism and the upcoming fake peace rally in NYC with Alexander Reid Ross.
+]]></description>
+                <enclosure url="https://www.vermontmovementnews.org/episodes/2023-07-15-00/Vol_3_Ep_15.mp3
+" length="33271509" type="audio/mpeg" />
+                <itunes:author>Vermont Movement News</itunes:author>
+                <itunes:episodeType>full</itunes:episodeType>
+                <itunes:explicit>false</itunes:explicit>
+                <itunes:duration>3375</itunes:duration>
+        </item>
+        <item>
+                <title>Legal Self Defense with Attys Kira Kelley and Claire Glenn
+</title>
+                <link>https://www.vermontmovementnews.org/episodes/2023-02-27-00/Vol_3_Episode_13.mp3
+</link>
+                <pubDate>Mon, 27 Feb 2023 00:00:00 -0500</pubDate>
+                <guid isPermaLink="false">https://www.vermontmovementnews.org/episodes/2023-02-27-00/Vol_3_Episode_13.mp3
+</guid>
+                <description><![CDATA[
+In this episode we discuss legal self defense with self described punk lawyer Kira Kelley and every prosecutors nightmare - Claire Glenn. This is good listening for anyone in this overpoliced so called country !
+]]></description>
+                <enclosure url="https://www.vermontmovementnews.org/episodes/2023-02-27-00/Vol_3_Episode_13.mp3
+" length="68556232" type="audio/mpeg" />
+                <itunes:author>Vermont Movement News</itunes:author>
+                <itunes:episodeType>full</itunes:episodeType>
+                <itunes:explicit>false</itunes:explicit>
+                <itunes:duration>6672</itunes:duration>
+        </item>
+        <item>
+                <title>Chat with Margaret Elisabeth Regarding Green Party Matters
+</title>
+                <link>https://www.vermontmovementnews.org/episodes/2023-02-26-00/Vol_3_Episode_12.mp3
+</link>
+                <pubDate>Sun, 26 Feb 2023 00:00:00 -0500</pubDate>
+                <guid isPermaLink="false">https://www.vermontmovementnews.org/episodes/2023-02-26-00/Vol_3_Episode_12.mp3
+</guid>
+                <description><![CDATA[
+In this episode we talk with Margaret Elisabeth regarding the fight to add a sex work plank to the Green Party Platform, reactionary infiltrators, the fashy Rage Against the War Machine rally and MORE !
+]]></description>
+                <enclosure url="https://www.vermontmovementnews.org/episodes/2023-02-26-00/Vol_3_Episode_12.mp3
+" length="58486277" type="audio/mpeg" />
+                <itunes:author>Vermont Movement News</itunes:author>
+                <itunes:episodeType>full</itunes:episodeType>
+                <itunes:explicit>false</itunes:explicit>
+                <itunes:duration>6052</itunes:duration>
+        </item>
+        <item>
+                <title>Talking about Aunt Jenny
+</title>
+                <link>https://www.vermontmovementnews.org/episodes/2023-01-10-00/Vol3_Episode11.mp3
+</link>
+                <pubDate>Tue, 10 Jan 2023 00:00:00 -0500</pubDate>
+                <guid isPermaLink="false">https://www.vermontmovementnews.org/episodes/2023-01-10-00/Vol3_Episode11.mp3
+</guid>
+                <description><![CDATA[
+A relatively unknown trans woman named Aunt Jenny or Jenstar took care of dozens if not more internet trans kids changing trans culture almost single handedly.
+]]></description>
+                <enclosure url="https://www.vermontmovementnews.org/episodes/2023-01-10-00/Vol3_Episode11.mp3
+" length="32654665" type="audio/mpeg" />
+                <itunes:author>Vermont Movement News</itunes:author>
+                <itunes:episodeType>full</itunes:episodeType>
+                <itunes:explicit>false</itunes:explicit>
+                <itunes:duration>3397</itunes:duration>
+        </item>
+        <item>
+                <title>A Discussion of Grand Jury Resistance
+</title>
+                <link>https://www.vermontmovementnews.org/episodes/2022-10-26-00/Vol3_Ep10.mp3
+</link>
+                <pubDate>Wed, 26 Oct 2022 00:00:00 -0400</pubDate>
+                <guid isPermaLink="false">https://www.vermontmovementnews.org/episodes/2022-10-26-00/Vol3_Ep10.mp3
+</guid>
+                <description><![CDATA[
+Listen to a discussion of grand jury resistance with lawyers Sandra Freeman  and Kira Kelley and grand jury resister Jeremy Hammond.
+]]></description>
+                <enclosure url="https://www.vermontmovementnews.org/episodes/2022-10-26-00/Vol3_Ep10.mp3
+" length="40653325" type="audio/mpeg" />
+                <itunes:author>Vermont Movement News</itunes:author>
+                <itunes:episodeType>full</itunes:episodeType>
+                <itunes:explicit>false</itunes:explicit>
+                <itunes:duration>3865</itunes:duration>
+        </item>
+        <item>
+                <title>Martia Abernathy response to the previous episode
+</title>
+                <link>https://www.vermontmovementnews.org/episodes/2022-10-12-00/Vol3_Ep9.mp3
+</link>
+                <pubDate>Wed, 12 Oct 2022 00:00:00 -0400</pubDate>
+                <guid isPermaLink="false">https://www.vermontmovementnews.org/episodes/2022-10-12-00/Vol3_Ep9.mp3
+</guid>
+                <description><![CDATA[
+This is the response of Martia Abernathy to the previous episode regarding the TERF provocation at Burlington Pride and the Outright truck pull. Martia is a long time transactivist living in the UK. She is a podcaster. Her social media, podcasts and broadcasts can be found at https://martiabernathy.com.
+]]></description>
+                <enclosure url="https://www.vermontmovementnews.org/episodes/2022-10-12-00/Vol3_Ep9.mp3
+" length="10989914" type="audio/mpeg" />
+                <itunes:author>Vermont Movement News</itunes:author>
+                <itunes:episodeType>full</itunes:episodeType>
+                <itunes:explicit>false</itunes:explicit>
+                <itunes:duration>832</itunes:duration>
+        </item>
+        <item>
+                <title>VMN Vol 3 Episode 8  De-escalators talk about the Fred Sargeant incidents in Burlington VT.
+</title>
+                <link>https://www.vermontmovementnews.org/episodes/2022-10-11-00/Vol3_Episode8.mp3
+</link>
+                <pubDate>Tue, 11 Oct 2022 00:00:00 -0400</pubDate>
+                <guid isPermaLink="false">https://www.vermontmovementnews.org/episodes/2022-10-11-00/Vol3_Episode8.mp3
+</guid>
+                <description><![CDATA[
+In this episode de-escalators/peacekeepers at Burlington VT pride and the Outright truck pull event discuss their viewpoint of the incidents surrounding Fred Sargeant and the LGB Alliance.
+]]></description>
+                <enclosure url="https://www.vermontmovementnews.org/episodes/2022-10-11-00/Vol3_Episode8.mp3
+" length="37203599" type="audio/mpeg" />
+                <itunes:author>Vermont Movement News</itunes:author>
+                <itunes:episodeType>full</itunes:episodeType>
+                <itunes:explicit>false</itunes:explicit>
+                <itunes:duration>3463</itunes:duration>
+        </item>
+        <item>
+                <title>VMN Volume 3 Episode 7 - All out against the white Supremacist AmRen Convention
+</title>
+                <link>https://www.vermontmovementnews.org/episodes/2022-10-10-00/Vol3_Episode7.mp3
+</link>
+                <pubDate>Mon, 10 Oct 2022 00:00:00 -0400</pubDate>
+                <guid isPermaLink="false">https://www.vermontmovementnews.org/episodes/2022-10-10-00/Vol3_Episode7.mp3
+</guid>
+                <description><![CDATA[
+VMN V3 E7 - An interview with Daryl Lamont Jenkins of the antifascist One Peoples Project regarding opposition to the white supremacist American Renaissance convention that will be held at the Montgomery Bell Park in Burns TN Nov 18-20 2022. <br><br>All out against white supremacy !
+]]></description>
+                <enclosure url="https://www.vermontmovementnews.org/episodes/2022-10-10-00/Vol3_Episode7.mp3
+" length="21755367" type="audio/mpeg" />
+                <itunes:author>Vermont Movement News</itunes:author>
+                <itunes:episodeType>full</itunes:episodeType>
+                <itunes:explicit>false</itunes:explicit>
+                <itunes:duration>2199</itunes:duration>
+        </item>
+        <item>
+                <title>VMN Volume 3 Episode 6 - an interview with former Prairie Fire Organizing Committee member Melinda Powers
+</title>
+                <link>https://www.vermontmovementnews.org/episodes/2022-10-05-00/Vol3_Ep6-Final.mp3
+</link>
+                <pubDate>Fri, 31 Jul 2026 02:26:48 -0400</pubDate>
+                <guid isPermaLink="false">https://www.vermontmovementnews.org/episodes/2022-10-05-00/Vol3_Ep6-Final.mp3
+</guid>
+                <description><![CDATA[
+Vol6 Episode 3 is an interview with a former member of the Prairie Fire Organzing Commitee. Prairie Fire was active from the 70's to the 90's.
+]]></description>
+                <enclosure url="https://www.vermontmovementnews.org/episodes/2022-10-05-00/Vol3_Ep6-Final.mp3
+" length="24517644" type="audio/mpeg" />
+                <itunes:author>Vermont Movement News</itunes:author>
+                <itunes:episodeType>full</itunes:episodeType>
+                <itunes:explicit>false</itunes:explicit>
+                <itunes:duration>2407</itunes:duration>
+        </item>
+        <item>
+                <title>Margaret Elisabeth a co-chair of Green Party Lavender caucus.
+</title>
+                <link>https://www.vermontmovementnews.org/episodes/2022-08-22-00/Vol_3_Ep_5.mp3
+</link>
+                <pubDate>Sat, 13 Aug 2022 00:00:00 -0400</pubDate>
+                <guid isPermaLink="false">https://www.vermontmovementnews.org/episodes/2022-08-22-00/Vol_3_Ep_5.mp3
+</guid>
+                <description><![CDATA[
+An interview with Margaret Elisabeth a co-chair of Green Party Lavender caucus and a co-chair of the Green Party of the US. The Green party has become a front in the recent wave of culture war bigotry. We discuss transphobia, the anti-crt panic and fascist entryism in the environmental movement. This is a must-listen episode !
+]]></description>
+                <enclosure url="https://www.vermontmovementnews.org/episodes/2022-08-22-00/Vol_3_Ep_5.mp3
+" length="87393296" type="audio/mpeg" />
+                <itunes:author>Vermont Movement News</itunes:author>
+                <itunes:episodeType>full</itunes:episodeType>
+                <itunes:explicit>false</itunes:explicit>
+                <itunes:duration>7631</itunes:duration>
+        </item>
+        <item>
+                <title>An interview with a Texas history teacher
+</title>
+                <link>https://www.vermontmovementnews.org/episodes/2022-08-13-00/Volume_3_Episode_4.mp3
+</link>
+                <pubDate>Sat, 13 Aug 2022 00:00:00 -0400</pubDate>
+                <guid isPermaLink="false">https://www.vermontmovementnews.org/episodes/2022-08-13-00/Volume_3_Episode_4.mp3
+</guid>
+                <description><![CDATA[
+<p>Scott Frank is a history teacher who works at IDEA Frontier, a public school in Brownsville, Texas. For reference, IDEA stands for Individuals Dedicated to Excellence and Achievement. In his own words, he describes the anti-CRT backlash as an attack on educators, the understanding of the past and, worst of all, on our students fully comprehending and coming to terms with what happened and how to move forward.</p>
+]]></description>
+                <enclosure url="https://www.vermontmovementnews.org/episodes/2022-08-13-00/Volume_3_Episode_4.mp3
+" length="27839740" type="audio/mpeg" />
+                <itunes:author>Vermont Movement News</itunes:author>
+                <itunes:episodeType>full</itunes:episodeType>
+                <itunes:explicit>false</itunes:explicit>
+                <itunes:duration>2707</itunes:duration>
+        </item>
+        <item>
+                <title>An interview with a public school Latin teacher
+</title>
+                <link>https://www.vermontmovementnews.org/episodes/2022-08-12-00/Episode_3.mp3
+</link>
+                <pubDate>Fri, 12 Aug 2022 00:00:00 -0400</pubDate>
+                <guid isPermaLink="false">https://www.vermontmovementnews.org/episodes/2022-08-12-00/Episode_3.mp3
+</guid>
+                <description><![CDATA[
+*Andrea Weiskopf *- Andrea is an English and Latin teacher who works<br>with Loudoun County Public Schools. I have not found any news articles<br>about her receiving harassment from right-wingers, but she is an active<br>supporter of social justice and has counter-protested against many<br>far-right gatherings. <br><br>Twitter: @latinsaxa<br>Blog: andreaweiskopf.net .
+]]></description>
+                <enclosure url="https://www.vermontmovementnews.org/episodes/2022-08-12-00/Episode_3.mp3
+" length="27444026" type="audio/mpeg" />
+                <itunes:author>Vermont Movement News</itunes:author>
+                <itunes:episodeType>full</itunes:episodeType>
+                <itunes:explicit>false</itunes:explicit>
+                <itunes:duration>3259</itunes:duration>
+        </item>
+        <item>
+                <title>Vermont Movement News vol 3 Episode 1 - An interview with Brian McCrae.
+</title>
+                <link>https://www.vermontmovementnews.org/episodes/2022-08-03-01/Brian_McCrae-Take2.mp3
+</link>
+                <pubDate>Mon, 03 Aug 2022 00:00:00 +0000 </pubDate>
+                <guid isPermaLink="false">https://www.vermontmovementnews.org/episodes/2022-08-03-01/Brian_McCrae-Take2.mp3
+</guid>
+                <description><![CDATA[
+In this episode we will be interviewing Brian McCrae, a<br>teacher of photography, video production, and graphic design teacher at North Country Union High School in Newport Vermont up near the canadian border. Vermont has a reputation for liberalism and progressive values, however it has not been immune against the far-right's crusade against anti-racist values and tolerance.
+]]></description>
+                <enclosure url="https://www.vermontmovementnews.org/episodes/2022-08-03-01/Brian_McCrae-Take2.mp3
+" length="33476648" type="audio/mpeg" />
+                <itunes:author>Vermont Movement News</itunes:author>
+                <itunes:episodeType>full</itunes:episodeType>
+                <itunes:explicit>false</itunes:explicit>
+                <itunes:duration>3361</itunes:duration>
+        </item>
+        <item>
+                <title>Vermont Movement News Vol 3 Episode 2 - Melissa Grandi Statz
+</title>
+                <link>https://www.vermontmovementnews.org/episodes/2022-08-03-00/Melissa_Grandi_Statz-final.mp3
+</link>
+                <pubDate>Wed, 03 Aug 2022 00:00:00 -0400</pubDate>
+                <guid isPermaLink="false">https://www.vermontmovementnews.org/episodes/2022-08-03-00/Melissa_Grandi_Statz-final.mp3
+</guid>
+                <description><![CDATA[
+<p>Vermont Movement News vol 3 Episode 2</p>
+
+<p>Daryle Lamont Jenkins, the executive director of the One Peoples Project<br>todays co-host.</p>
+
+<p>In this episode we will be interviewing Melissa Grandi Statz<br>Melissa was a social studies teacher who works at Dyer Elementary School in Burlington, Wisconsin. In August 2020 &#8211; a few months after George Floyd&#8217;s murder, Melissa taught classes about racism in response to questions from her students who the murders by police. A right-wing Facebook group eventually caught wind of lessons and a slew of harassment and death threats began. Her story was covered by PBS Wisconsin Education and NBC News. <br><br>https://pbswisconsineducation.org/akateacher/talking-about-race/</p>
+
+
+<p><a href="https://www.nbcnews.com/news/us-news/how-one-teacher-s-black-lives-matter-lesson-divided-small-n1244566">https://www.nbcnews.com/news/us-news/how-one-teacher-s-black-lives-matter-lesson-divided-small-n1244566</a></p>
+]]></description>
+                <enclosure url="https://www.vermontmovementnews.org/episodes/2022-08-03-00/Melissa_Grandi_Statz-final.mp3
+" length="34572381" type="audio/mpeg" />
+                <itunes:author>Vermont Movement News</itunes:author>
+                <itunes:episodeType>full</itunes:episodeType>
+                <itunes:explicit>false</itunes:explicit>
+                <itunes:duration>3305</itunes:duration>
+        </item>
+        <item>
+                <title>Vol 2 Ep 6 - The Spanish Civil War with Beth Foster
+</title>
+                <link>https://www.vermontmovementnews.org/episodes/2020-12-23-99/vol-2-ep-6-final.mp3
+</link>
+                <pubDate>Wed, 23 Dec 2020 00:00:00 -0500</pubDate>
+                <guid isPermaLink="false">https://www.vermontmovementnews.org/episodes/2020-12-23-99/vol-2-ep-6-final.mp3
+</guid>
+                <description><![CDATA[
+Volume 2 Episode 6 features an interview with Beth Foster regarding the experience of Americans who fought in the Spanish Civil War and the aftermath of their experience. Fascinating !
+]]></description>
+                <enclosure url="https://www.vermontmovementnews.org/episodes/2020-12-23-99/vol-2-ep-6-final.mp3
+" length="5209543" type="audio/mpeg" />
+                <itunes:author>Vermont Movement News</itunes:author>
+                <itunes:episodeType>full</itunes:episodeType>
+                <itunes:explicit>false</itunes:explicit>
+                <itunes:duration>1737</itunes:duration>
+        </item>
+        <item>
+                <title>A discussion with Shawn Pratt and Duane.
+</title>
+                <link>https://www.vermontmovementnews.org/episodes/2020-11-18-00/vol_2-ep_4.mp3
+</link>
+                <pubDate>Wed, 18 Nov 2020 00:00:00 +0000 </pubDate>
+                <guid isPermaLink="false">https://www.vermontmovementnews.org/episodes/2020-11-18-00/vol_2-ep_4.mp3
+</guid>
+                <description><![CDATA[
+VMN discusses the elections and related topics with Shawn Pratt and Duane from New Hampshire. Podcast includes a wonderful track from Grindwork Fresh.
+]]></description>
+                <enclosure url="https://www.vermontmovementnews.org/episodes/2020-11-18-00/vol_2-ep_4.mp3
+" length="7960870" type="audio/mpeg" />
+                <itunes:author>Vermont Movement News</itunes:author>
+                <itunes:episodeType>full</itunes:episodeType>
+                <itunes:explicit>false</itunes:explicit>
+                <itunes:duration>2655</itunes:duration>
+        </item>
+        <item>
+                <title>Inteview with Raymond Tee Tee Moore, Shawn Pratt and Daryl Lamont Jenkins
+</title>
+                <link>https://www.vermontmovementnews.org/episodes/2020-10-30-00/vol2_ep3-final.mp3
+</link>
+                <pubDate>Fri, 30 Oct 2020 00:00:00 -0400</pubDate>
+                <guid isPermaLink="false">https://www.vermontmovementnews.org/episodes/2020-10-30-00/vol2_ep3-final.mp3
+</guid>
+                <description><![CDATA[
+VMN Vol 2 Episode 3 features an interview with Raymond Tee Tee Moore from North Adams Ma, Shawn Pratt from Bennington VT and Daryl Lamont Jenkins of the One Peoples Project out of NJ. They discuss BLM and the many challenges and threats they have faced organizing for racial justice.
+]]></description>
+                <enclosure url="https://www.vermontmovementnews.org/episodes/2020-10-30-00/vol2_ep3-final.mp3
+" length="8697835" type="audio/mpeg" />
+                <itunes:author>Vermont Movement News</itunes:author>
+                <itunes:episodeType>full</itunes:episodeType>
+                <itunes:explicit>false</itunes:explicit>
+                <itunes:duration>2900</itunes:duration>
+        </item>
+        <item>
+                <title>Interview with Vermont congressional candidate Chris Helali.
+</title>
+                <link>https://www.vermontmovementnews.org/episodes/2020-10-25-00/Vol2-EP2.mp3
+</link>
+                <pubDate>Sun, 25 Oct 2020 00:00:00 -0400</pubDate>
+                <guid isPermaLink="false">https://www.vermontmovementnews.org/episodes/2020-10-25-00/Vol2-EP2.mp3
+</guid>
+                <description><![CDATA[
+Interview with Vermont congressional candidate Chris Helali.
+]]></description>
+                <enclosure url="https://www.vermontmovementnews.org/episodes/2020-10-25-00/Vol2-EP2.mp3
+" length="9752360" type="audio/mpeg" />
+                <itunes:author>Vermont Movement News</itunes:author>
+                <itunes:episodeType>full</itunes:episodeType>
+                <itunes:explicit>false</itunes:explicit>
+                <itunes:duration>3252</itunes:duration>
+        </item>
+        <item>
+                <title>VMN Vol II Episode I - An interview with Shawn Pratt
+</title>
+                <link>https://www.vermontmovementnews.org/episodes/2020-10-23-00/Vol2-EP1.mp3
+</link>
+                <pubDate>Fri, 23 Oct 2020 00:00:00 -0400</pubDate>
+                <guid isPermaLink="false">https://www.vermontmovementnews.org/episodes/2020-10-23-00/Vol2-EP1.mp3
+</guid>
+                <description><![CDATA[
+An interview with Shawn Pratt.
+]]></description>
+                <enclosure url="https://www.vermontmovementnews.org/episodes/2020-10-23-00/Vol2-EP1.mp3
+" length="5359625" type="audio/mpeg" />
+                <itunes:author>Vermont Movement News</itunes:author>
+                <itunes:episodeType>full</itunes:episodeType>
+                <itunes:explicit>false</itunes:explicit>
+                <itunes:duration>1787</itunes:duration>
+        </item>
+        <item>
+                <title>Vol 1 Episode 10 - Anti-Muslim speaker deplatformed twice and a right wing radio host fired.
+</title>
+                <link>https://www.vermontmovementnews.org/episodes/2019-10-13-00/Volume_1_Episode_10.mp3
+</link>
+                <pubDate>Sun, 13 Oct 2019 00:00:00 -0400</pubDate>
+                <guid isPermaLink="false">https://www.vermontmovementnews.org/episodes/2019-10-13-00/Volume_1_Episode_10.mp3
+</guid>
+                <description><![CDATA[
+Vol 1 Episode 10 features an interview with Asma Elhuni who was centrally involved in the deplatforming of anti-muslim speaker and author Robert Spencer from not one but 2 venues in New Hampshire.  This campaign may also have cost a right wing radio host his job for his aggressive social media comments regarding this event.
+]]></description>
+                <enclosure url="https://www.vermontmovementnews.org/episodes/2019-10-13-00/Volume_1_Episode_10.mp3
+" length="9564197" type="audio/mpeg" />
+                <itunes:author>Vermont Movement News</itunes:author>
+                <itunes:episodeType>full</itunes:episodeType>
+                <itunes:explicit>false</itunes:explicit>
+                <itunes:duration>3189</itunes:duration>
+        </item>
+        <item>
+                <title>ACAB or The Boston Police Riot at Straight Pride Hate Rally !
+</title>
+                <link>https://www.vermontmovementnews.org/episodes/2019-09-12-00/Vol_1_Episode_9_The-_A31_2019_Police_Riot-Final-24k.mp3
+</link>
+                <pubDate>Thu, 12 Sep 2019 00:00:00 -0400</pubDate>
+                <guid isPermaLink="false">https://www.vermontmovementnews.org/episodes/2019-09-12-00/Vol_1_Episode_9_The-_A31_2019_Police_Riot-Final-24k.mp3
+</guid>
+                <description><![CDATA[
+Volume 1 Episode 9 of VMN has interviews from the hostess, Medic Mom, the elderly medic who was attacked by the cops, ruckus and an anonymous medic who did his duties as a medic even while being held hostage by the police.<br><br>The episode wraps up with an interview with Alison from the Torproject discussing digital security for activists as some people had their cell phones stolen by untrustworthy individuals at the event.
+]]></description>
+                <enclosure url="https://www.vermontmovementnews.org/episodes/2019-09-12-00/Vol_1_Episode_9_The-_A31_2019_Police_Riot-Final-24k.mp3
+" length="16971984" type="audio/mpeg" />
+                <itunes:author>Vermont Movement News</itunes:author>
+                <itunes:episodeType>full</itunes:episodeType>
+                <itunes:explicit>false</itunes:explicit>
+                <itunes:duration>5658</itunes:duration>
+        </item>
+        <item>
+                <title>All Out against the fascistic Straight Pride Aug 31 in Boston !
+</title>
+                <link>https://www.vermontmovementnews.org/episodes/2019-08-28-00/Volume_1_Episode_8_antifascist-mobilization-against-fascistic-straight-pride.mp3
+</link>
+                <pubDate>Wed, 28 Aug 2019 00:00:00 -0400</pubDate>
+                <guid isPermaLink="false">https://www.vermontmovementnews.org/episodes/2019-08-28-00/Volume_1_Episode_8_antifascist-mobilization-against-fascistic-straight-pride.mp3
+</guid>
+                <description><![CDATA[
+Volume 1 Episode 8 of Vermont Movement News. This is a shorter podcast for an emergency mobilization against the fascist Straight Pride Parade that is being held in Boston on Saturday August 31. The purpose of this podcast is to get as many people as possible to come out to oppose this right wing event.
+]]></description>
+                <enclosure url="https://www.vermontmovementnews.org/episodes/2019-08-28-00/Volume_1_Episode_8_antifascist-mobilization-against-fascistic-straight-pride.mp3
+" length="3113568" type="audio/mpeg" />
+                <itunes:author>Vermont Movement News</itunes:author>
+                <itunes:episodeType>full</itunes:episodeType>
+                <itunes:explicit>false</itunes:explicit>
+                <itunes:duration>1039</itunes:duration>
+        </item>
+        <item>
+                <title>Volume 1 Episode 7 - The fightback against ICE
+</title>
+                <link>https://www.vermontmovementnews.org/episodes/2019-08-21-00/Volume_1_Episode_7_The_Fightback_Against_ICE.mp3
+</link>
+                <pubDate>Wed, 21 Aug 2019 00:00:00 +0000 </pubDate>
+                <guid isPermaLink="false">https://www.vermontmovementnews.org/episodes/2019-08-21-00/Volume_1_Episode_7_The_Fightback_Against_ICE.mp3
+</guid>
+                <description><![CDATA[
+Volume 1 Episode 7 of Vermont Movement News. This episode features  interviews with Julie Conason and Adrienne Cooper Smith who were arrested protesting the ICE data Center in Williston VT on July 28th. We also have an  interview with Scott Norman Rosenthal who was arrested protesting the ICE raids  in Hartford on Aug 14th.  The second interview will be the one<br> with Remi, a street medic who was at the tragic ICE vehicular attack on  protestors at the Wyatt Detention center in Rhode Island.
+]]></description>
+                <enclosure url="https://www.vermontmovementnews.org/episodes/2019-08-21-00/Volume_1_Episode_7_The_Fightback_Against_ICE.mp3
+" length="16599391" type="audio/mpeg" />
+                <itunes:author>Vermont Movement News</itunes:author>
+                <itunes:episodeType>full</itunes:episodeType>
+                <itunes:explicit>false</itunes:explicit>
+                <itunes:duration>5534</itunes:duration>
+        </item>
+        <item>
+                <title>FIP/Anti-ICE action in Hartford TSP VT and Anti-F35 action.
+</title>
+                <link>https://www.vermontmovementnews.org/episodes/2019-08-14-00/Volume_1_Episode_6_Occupy_Hartford_High_for_FIP_and_Against_ICE_and_Oppose_F35.mp3
+</link>
+                <pubDate>Wed, 14 Aug 2019 00:00:00 -0400</pubDate>
+                <guid isPermaLink="false">https://www.vermontmovementnews.org/episodes/2019-08-14-00/Volume_1_Episode_6_Occupy_Hartford_High_for_FIP_and_Against_ICE_and_Oppose_F35.mp3
+</guid>
+                <description><![CDATA[
+<p>Volume 1 Episode 6 of Vermont Movement News. This episode features interviews with Asma Alhouni and Kira Kelley who were at the July 30 2019 action at the Hartford Select Board discussing a FIP (Fair and Impartial Policing Policy that would forbid the Hartford police from collaborating or colluding with Federal ICE agents. </p>
+
+<p>After discussing the situation in Hartford we will move onto a reportback and discussion with Jenifer Decker from the movement to stop nuclear bombers from being based in South Burlington at the Burlington International Airport.</p>
+]]></description>
+                <enclosure url="https://www.vermontmovementnews.org/episodes/2019-08-14-00/Volume_1_Episode_6_Occupy_Hartford_High_for_FIP_and_Against_ICE_and_Oppose_F35.mp3
+" length="37436321" type="audio/mpeg" />
+                <itunes:author>Vermont Movement News</itunes:author>
+                <itunes:episodeType>full</itunes:episodeType>
+                <itunes:explicit>false</itunes:explicit>
+                <itunes:duration>3657</itunes:duration>
+        </item>
+        <item>
+                <title>Volume 1 Episode 5 - an interview with Red
+</title>
+                <link>https://www.vermontmovementnews.org/episodes/2019-08-13-00/vol-1-Episode-5-Red-on-combatting-the-alt-right-battle-of-berkely-deplatform-milo.mp3
+</link>
+                <pubDate>Tue, 13 Aug 2019 00:00:00 +0000</pubDate>
+                <guid isPermaLink="false">https://www.vermontmovementnews.org/episodes/2019-08-13-00/vol-1-Episode-5-Red-on-combatting-the-alt-right-battle-of-berkely-deplatform-milo.mp3
+</guid>
+                <description><![CDATA[
+Volume 1 Episode 5 of Vermont Movement News. This episode features an interview with Red who was present at Occupy/Decolonize Oakland, the infamous Battle of Berkely and the protest that de-platformed Milo Yanappolis. Be forewarned that there will be discussion of police and far right brutality and violence.
+]]></description>
+                <enclosure url="https://www.vermontmovementnews.org/episodes/2019-08-13-00/vol-1-Episode-5-Red-on-combatting-the-alt-right-battle-of-berkely-deplatform-milo.mp3
+" length="40838441" type="audio/mpeg" />
+                <itunes:author>Vermont Movement News</itunes:author>
+                <itunes:episodeType>full</itunes:episodeType>
+                <itunes:explicit>false</itunes:explicit>
+                <itunes:duration>3819</itunes:duration>
+        </item>
+        <item>
+                <title>Volume 1 Episode 4
+</title>
+                <link>https://www.vermontmovementnews.org/episodes/2019-07-29-01/Volume_1_Episode_4_Pam_Ladds_DUMP_Rosemarie_Jackowski_PFOA_Mindy_Blank_ER_DEMO_REPORTBACK-finalfinalcut-1.mp3
+</link>
+                <pubDate>Mon, 29 Jul 2019 00:00:00 -0400</pubDate>
+                <guid isPermaLink="false">https://www.vermontmovementnews.org/episodes/2019-07-29-01/Volume_1_Episode_4_Pam_Ladds_DUMP_Rosemarie_Jackowski_PFOA_Mindy_Blank_ER_DEMO_REPORTBACK-finalfinalcut-1.mp3
+</guid>
+                <description><![CDATA[
+Welcome to Volume 1 Episode 4 of Vermont Movement News. This episode will  give reports back on the Extinction Rebellion protest in Montpelier Vermont, and an interview with a DUMP activist from Newport VT and an interview with an activist from Bennington whose well was contaminated with PFOA.
+]]></description>
+                <enclosure url="https://www.vermontmovementnews.org/episodes/2019-07-29-01/Volume_1_Episode_4_Pam_Ladds_DUMP_Rosemarie_Jackowski_PFOA_Mindy_Blank_ER_DEMO_REPORTBACK-finalfinalcut-1.mp3
+" length="38617446" type="audio/mpeg" />
+                <itunes:author>Vermont Movement News</itunes:author>
+                <itunes:episodeType>full</itunes:episodeType>
+                <itunes:explicit>false</itunes:explicit>
+                <itunes:duration>3440</itunes:duration>
+        </item>
+        <item>
+                <title>An interview with Eilis Ni Fhlannagain.
+</title>
+                <link>https://www.vermontmovementnews.org/episodes/2019-07-29-00/Vol_1_Episode_11.mp3
+</link>
+                <pubDate>Mon, 29 Jul 2019 00:00:00 -0400</pubDate>
+                <guid isPermaLink="false">https://www.vermontmovementnews.org/episodes/2019-07-29-00/Vol_1_Episode_11.mp3
+</guid>
+                <description><![CDATA[
+This episode features an interview with longtime activist Eilis Ni Fhlannagain. She discusses activism in Ireland, strategies with regards to anarchism, the fight against bigotry and trans rights. This is a good discussion on tactics.
+]]></description>
+                <enclosure url="https://www.vermontmovementnews.org/episodes/2019-07-29-00/Vol_1_Episode_11.mp3
+" length="98846962" type="audio/mpeg" />
+                <itunes:author>Vermont Movement News</itunes:author>
+                <itunes:episodeType>full</itunes:episodeType>
+                <itunes:explicit>false</itunes:explicit>
+                <itunes:duration>4120</itunes:duration>
+        </item>
+        <item>
+                <title>Vermont Movement News Vol 1 Episode 3
+</title>
+                <link>https://www.vermontmovementnews.org/episodes/2019-07-17-00/Volume1_Episode3.mp3
+</link>
+                <pubDate>Wed, 17 Jul 2019 00:00:00 -0400</pubDate>
+                <guid isPermaLink="false">https://www.vermontmovementnews.org/episodes/2019-07-17-00/Volume1_Episode3.mp3
+</guid>
+                <description><![CDATA[
+Vermont Movement News Vol 1 Episode 3 - This episode features a discussion with Mindy Blank of Central Vermont Extinction rebellion explaining what their movement is about and a discussion on tactics.
+]]></description>
+                <enclosure url="https://www.vermontmovementnews.org/episodes/2019-07-17-00/Volume1_Episode3.mp3
+" length="20373081" type="audio/mpeg" />
+                <itunes:author>Vermont Movement News</itunes:author>
+                <itunes:episodeType>full</itunes:episodeType>
+                <itunes:explicit>false</itunes:explicit>
+                <itunes:duration>2526</itunes:duration>
+        </item>
+        <item>
+                <title>Vermont Movement News Volume 1 Episode 2
+</title>
+                <link>https://www.vermontmovementnews.org/episodes/2019-07-10-00/Volume_1_Episode_2.mp3
+</link>
+                <pubDate>Wed, 10 Jul 2019 00:00:00 -0400</pubDate>
+                <guid isPermaLink="false">https://www.vermontmovementnews.org/episodes/2019-07-10-00/Volume_1_Episode_2.mp3
+</guid>
+                <description><![CDATA[
+Volume 1 Episode 2 of Vermont Movement News. This episode will  give reports back on the 4th of July protest against ICE in Bristol Vermont  and a brief report back from the alt-lite so called "Defend Free Speech" Rally in Washington DC. We were fantastically lucky to get an interview  with researcher Gwen Snyder who has apparenty been targetted by the Proud Boys  in retaliation for her research. Finally we will have a discussion with  medic mom regarding the alt-lite/proud boy rally in DC with footage from the  event.
+]]></description>
+                <enclosure url="https://www.vermontmovementnews.org/episodes/2019-07-10-00/Volume_1_Episode_2.mp3
+" length="31559727" type="audio/mpeg" />
+                <itunes:author>Vermont Movement News</itunes:author>
+                <itunes:episodeType>full</itunes:episodeType>
+                <itunes:explicit>false</itunes:explicit>
+                <itunes:duration>3690</itunes:duration>
+        </item>
+        <item>
+                <title>Vermont Movement News Vol 1 Episode 1
+</title>
+                <link>https://www.vermontmovementnews.org/episodes/2019-07-05-00/vol1-episode1.mp3
+</link>
+                <pubDate>Fri, 05 Jul 2019 00:00:00 -0400</pubDate>
+                <guid isPermaLink="false">https://www.vermontmovementnews.org/episodes/2019-07-05-00/vol1-episode1.mp3
+</guid>
+                <description><![CDATA[
+Vermont Movement News Vol 1 Episode 1 - This episode features report backs from Bennington Pride, The Radical Pride in Burlington, The Migrant Justice protest in Newport, the Anti-Ice protest in Burlington and a discussion of conspiracy theories and why people buy into them and a bit more !
+]]></description>
+                <enclosure url="https://www.vermontmovementnews.org/episodes/2019-07-05-00/vol1-episode1.mp3
+" length="30112116" type="audio/mpeg" />
+                <itunes:author>Vermont Movement News</itunes:author>
+                <itunes:episodeType>full</itunes:episodeType>
+                <itunes:explicit>false</itunes:explicit>
+                <itunes:duration>3363</itunes:duration>
+        </item>
+</channel>
+</rss>

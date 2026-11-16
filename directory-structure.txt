@@ -1,0 +1,525 @@
+.
+├── create-a-new-html-listing.php
+├── create-a-new-rss-listing.php
+├── create-index.php
+├── create-new-html-listings.sh
+├── create-new-rss-listings.sh
+├── create-old-rss-listings.php
+├── create-rss-footer.php
+├── create-rss-head.php
+├── create-rss.php
+├── create-rss.php.OLD
+├── create-upload.sh
+├── directory-structure.txt
+├── foo
+├── foo.tgz
+├── get_date2.sh
+├── get_date.sh
+├── get_duration2.sh
+├── get_duration3.sh
+├── get_duration.sh
+├── get_len.sh
+├── input_script.pl
+├── OLD-JUNK
+│   ├── get_duration2.sh~
+│   ├── index.rss
+│   ├── old-content.php
+│   ├── old-content.php.BAK
+│   ├── old-content.php-July-16-BAK
+│   ├── old-index.rss
+│   └── SAVE
+│       └── 2026-07-09-00
+│           ├── date.txt
+│           ├── description.txt
+│           ├── Episode-54.mp3
+│           └── title.txt
+├── README.txt
+├── TEST-DIR
+├── vars.php
+└── WEBROOT
+    ├── code.tgz
+    ├── episodes
+    │   ├── 2019-07-05-00
+    │   │   ├── date.txt
+    │   │   ├── description.txt
+    │   │   ├── duration.txt
+    │   │   ├── title.txt
+    │   │   └── vol1-episode1.mp3
+    │   ├── 2019-07-10-00
+    │   │   ├── date.txt
+    │   │   ├── description.txt
+    │   │   ├── duration.txt
+    │   │   ├── title.txt
+    │   │   └── Volume_1_Episode_2.mp3
+    │   ├── 2019-07-17-00
+    │   │   ├── date.txt
+    │   │   ├── description.txt
+    │   │   ├── duration.txt
+    │   │   ├── title.txt
+    │   │   └── Volume1_Episode3.mp3
+    │   ├── 2019-07-29-00
+    │   │   ├── date.txt
+    │   │   ├── description.txt
+    │   │   ├── duration.txt
+    │   │   ├── title.txt
+    │   │   └── Vol_1_Episode_11.mp3
+    │   ├── 2019-07-29-01
+    │   │   ├── date.txt
+    │   │   ├── description.txt
+    │   │   ├── duration.txt
+    │   │   ├── title.txt
+    │   │   └── Volume_1_Episode_4_Pam_Ladds_DUMP_Rosemarie_Jackowski_PFOA_Mindy_Blank_ER_DEMO_REPORTBACK-finalfinalcut-1.mp3
+    │   ├── 2019-08-13-00
+    │   │   ├── date.txt
+    │   │   ├── description.txt
+    │   │   ├── duration.txt
+    │   │   ├── title.txt
+    │   │   └── vol-1-Episode-5-Red-on-combatting-the-alt-right-battle-of-berkely-deplatform-milo.mp3
+    │   ├── 2019-08-14-00
+    │   │   ├── date.txt
+    │   │   ├── description.txt
+    │   │   ├── duration.txt
+    │   │   ├── title.txt
+    │   │   └── Volume_1_Episode_6_Occupy_Hartford_High_for_FIP_and_Against_ICE_and_Oppose_F35.mp3
+    │   ├── 2019-08-21-00
+    │   │   ├── date.txt
+    │   │   ├── description.txt
+    │   │   ├── duration.txt
+    │   │   ├── title.txt
+    │   │   └── Volume_1_Episode_7_The_Fightback_Against_ICE.mp3
+    │   ├── 2019-08-28-00
+    │   │   ├── date.txt
+    │   │   ├── description.txt
+    │   │   ├── duration.txt
+    │   │   ├── title.txt
+    │   │   └── Volume_1_Episode_8_antifascist-mobilization-against-fascistic-straight-pride.mp3
+    │   ├── 2019-09-12-00
+    │   │   ├── date.txt
+    │   │   ├── description.txt
+    │   │   ├── duration.txt
+    │   │   ├── title.txt
+    │   │   └── Vol_1_Episode_9_The-_A31_2019_Police_Riot-Final-24k.mp3
+    │   ├── 2019-10-13-00
+    │   │   ├── date.txt
+    │   │   ├── description.txt
+    │   │   ├── duration.txt
+    │   │   ├── title.txt
+    │   │   └── Volume_1_Episode_10.mp3
+    │   ├── 2020-10-23-00
+    │   │   ├── date.txt
+    │   │   ├── description.txt
+    │   │   ├── duration.txt
+    │   │   ├── title.txt
+    │   │   └── Vol2-EP1.mp3
+    │   ├── 2020-10-25-00
+    │   │   ├── date.txt
+    │   │   ├── description.txt
+    │   │   ├── duration.txt
+    │   │   ├── title.txt
+    │   │   └── Vol2-EP2.mp3
+    │   ├── 2020-10-30-00
+    │   │   ├── date.txt
+    │   │   ├── description.txt
+    │   │   ├── duration.txt
+    │   │   ├── title.txt
+    │   │   └── vol2_ep3-final.mp3
+    │   ├── 2020-11-18-00
+    │   │   ├── date.txt
+    │   │   ├── description.txt
+    │   │   ├── duration.txt
+    │   │   ├── title.txt
+    │   │   └── vol_2-ep_4.mp3
+    │   ├── 2020-12-23-99
+    │   │   ├── 2020-11-18-00
+    │   │   │   ├── date.txt
+    │   │   │   ├── description.txt
+    │   │   │   └── title.txt
+    │   │   ├── date.txt
+    │   │   ├── description.txt
+    │   │   ├── duration.txt
+    │   │   ├── title.txt
+    │   │   └── vol-2-ep-6-final.mp3
+    │   ├── 2022-08-03-00
+    │   │   ├── date.txt
+    │   │   ├── description.txt
+    │   │   ├── duration.txt
+    │   │   ├── Melissa_Grandi_Statz-final.mp3
+    │   │   └── title.txt
+    │   ├── 2022-08-03-01
+    │   │   ├── Brian_McCrae-Take2.mp3
+    │   │   ├── date.txt
+    │   │   ├── description.txt
+    │   │   ├── duration.txt
+    │   │   └── title.txt
+    │   ├── 2022-08-12-00
+    │   │   ├── date.txt
+    │   │   ├── description.txt
+    │   │   ├── duration.txt
+    │   │   ├── Episode_3.mp3
+    │   │   └── title.txt
+    │   ├── 2022-08-13-00
+    │   │   ├── date.txt
+    │   │   ├── description.txt
+    │   │   ├── duration.txt
+    │   │   ├── title.txt
+    │   │   └── Volume_3_Episode_4.mp3
+    │   ├── 2022-08-22-00
+    │   │   ├── date.txt
+    │   │   ├── description.txt
+    │   │   ├── duration.txt
+    │   │   ├── title.txt
+    │   │   └── Vol_3_Ep_5.mp3
+    │   ├── 2022-10-05-00
+    │   │   ├── date
+    │   │   ├── date.txt
+    │   │   ├── description.txt
+    │   │   ├── duration.txt
+    │   │   ├── title.txt
+    │   │   └── Vol3_Ep6-Final.mp3
+    │   ├── 2022-10-10-00
+    │   │   ├── date.txt
+    │   │   ├── description.txt
+    │   │   ├── duration.txt
+    │   │   ├── title.txt
+    │   │   └── Vol3_Episode7.mp3
+    │   ├── 2022-10-11-00
+    │   │   ├── date.txt
+    │   │   ├── description.txt
+    │   │   ├── duration.txt
+    │   │   ├── title.txt
+    │   │   └── Vol3_Episode8.mp3
+    │   ├── 2022-10-12-00
+    │   │   ├── date.txt
+    │   │   ├── description.txt
+    │   │   ├── duration.txt
+    │   │   ├── title.txt
+    │   │   └── Vol3_Ep9.mp3
+    │   ├── 2022-10-26-00
+    │   │   ├── date.txt
+    │   │   ├── description.txt
+    │   │   ├── duration.txt
+    │   │   ├── title.txt
+    │   │   └── Vol3_Ep10.mp3
+    │   ├── 2023-01-10-00
+    │   │   ├── date.txt
+    │   │   ├── description.txt
+    │   │   ├── duration.txt
+    │   │   ├── title.txt
+    │   │   └── Vol3_Episode11.mp3
+    │   ├── 2023-02-26-00
+    │   │   ├── date.txt
+    │   │   ├── description.txt
+    │   │   ├── duration.txt
+    │   │   ├── title.txt
+    │   │   └── Vol_3_Episode_12.mp3
+    │   ├── 2023-02-27-00
+    │   │   ├── date.txt
+    │   │   ├── description.txt
+    │   │   ├── duration.txt
+    │   │   ├── title.txt
+    │   │   └── Vol_3_Episode_13.mp3
+    │   ├── 2023-07-15-00
+    │   │   ├── date.txt
+    │   │   ├── description.txt
+    │   │   ├── duration.txt
+    │   │   ├── title.txt
+    │   │   └── Vol_3_Ep_15.mp3
+    │   ├── 2023-07-20-00
+    │   │   ├── date.txt
+    │   │   ├── description.txt
+    │   │   ├── duration.txt
+    │   │   ├── title.txt
+    │   │   └── vol_3-ep_16-Final.mp3
+    │   ├── 2023-07-21-00
+    │   │   ├── date.txt
+    │   │   ├── description.txt
+    │   │   ├── duration.txt
+    │   │   ├── title.txt
+    │   │   └── Vol3_Ep17.mp3
+    │   ├── 2023-08-17-00
+    │   │   ├── date.txt
+    │   │   ├── description.txt
+    │   │   ├── duration.txt
+    │   │   ├── Lauren_Regen_Talks_About_The_Andy_Ngo_trial.mp3
+    │   │   └── title.txt
+    │   ├── 2023-08-25-00
+    │   │   ├── ACAB-in-Flagstaff-Free-Epona-Rose.mp3
+    │   │   ├── date.txt
+    │   │   ├── description.txt
+    │   │   ├── duration.txt
+    │   │   └── title.txt
+    │   ├── 2023-08-29-00
+    │   │   ├── date.txt
+    │   │   ├── description.txt
+    │   │   ├── duration.txt
+    │   │   ├── Talking-With-Polskie-Babscie-The-Polish-Grannies.mp3
+    │   │   └── title.txt
+    │   ├── 2023-09-19-00
+    │   │   ├── date.txt
+    │   │   ├── description.txt
+    │   │   ├── duration.txt
+    │   │   ├── title.txt
+    │   │   └── Volume3_Episode21.mp3
+    │   ├── 2023-09-27-00
+    │   │   ├── date.txt
+    │   │   ├── description.txt
+    │   │   ├── duration.txt
+    │   │   ├── title.txt
+    │   │   └── Vol3_Episode22.mp3
+    │   ├── 2023-10-11-00
+    │   │   ├── date.txt
+    │   │   ├── description.txt
+    │   │   ├── duration.txt
+    │   │   ├── title.txt
+    │   │   └── Vol3_Ep24-The-Brawl-In-BTV.mp3
+    │   ├── 2023-10-17-00
+    │   │   ├── date.txt
+    │   │   ├── description.txt
+    │   │   ├── duration.txt
+    │   │   ├── Leftists-on-Left-Wing-Antisemitism-panel.mp3
+    │   │   └── title.txt
+    │   ├── 2023-11-11-00
+    │   │   ├── date.txt
+    │   │   ├── description.txt
+    │   │   ├── duration.txt
+    │   │   ├── title.txt
+    │   │   └── Vol3_Episode25_Epona_Rose.mp3
+    │   ├── 2023-11-26-00
+    │   │   ├── date.txt
+    │   │   ├── description.txt
+    │   │   ├── duration.txt
+    │   │   ├── title.txt
+    │   │   └── Vol3_Ep26_Daryle_Lamont_Jenkins_discusses_free_speech_on_Ch17.mp3
+    │   ├── 2023-12-28-00
+    │   │   ├── date.txt
+    │   │   ├── description.txt
+    │   │   ├── duration.txt
+    │   │   ├── title.txt
+    │   │   └── Vol_3_Ep_27_Discussing_Sticker_Wars_with_Olivia_Taylor.mp3
+    │   ├── 2024-01-13-00
+    │   │   ├── date.txt
+    │   │   ├── description.txt
+    │   │   ├── duration.txt
+    │   │   ├── title.txt
+    │   │   └── VMN-Vol3-Episode28-Lee-Morrigan-and-Free-Speech-final.mp3
+    │   ├── 2024-01-15-00
+    │   │   ├── date.txt
+    │   │   ├── description.txt
+    │   │   ├── duration.txt
+    │   │   ├── title.txt
+    │   │   └── Volume3_Episode29.mp3
+    │   ├── 2024-01-20-00
+    │   │   ├── date.txt
+    │   │   ├── description.txt
+    │   │   ├── duration.txt
+    │   │   ├── title.txt
+    │   │   └── Vol3_Ep30_A_Discussion_With_leftrenewal_dot_net.mp3
+    │   ├── 2024-05-08-00
+    │   │   ├── date.txt
+    │   │   ├── description.txt
+    │   │   ├── duration.txt
+    │   │   ├── title.txt
+    │   │   └── Vol4_Ep1-reflections-and-regrets.mp3
+    │   ├── 2024-05-20-00
+    │   │   ├── date.txt
+    │   │   ├── description.txt
+    │   │   ├── duration.txt
+    │   │   ├── title.txt
+    │   │   └── Vol4_Ep2.mp3
+    │   ├── 2024-07-29-00
+    │   │   ├── date.txt
+    │   │   ├── description.txt
+    │   │   ├── duration.txt
+    │   │   ├── title.txt
+    │   │   └── Vol4-Ep3-Talking-about-Alex-Stokes.mp3
+    │   ├── 2024-08-25-00
+    │   │   ├── date.txt
+    │   │   ├── description.txt
+    │   │   ├── duration.txt
+    │   │   ├── title.txt
+    │   │   └── Vol_4_Ep4_No_Coal_No_Gas.mp3
+    │   ├── 2026-03-17-00
+    │   │   ├── date.txt
+    │   │   ├── description.txt
+    │   │   ├── duration.txt
+    │   │   ├── title.txt
+    │   │   └── Vol5_Ep1.mp3
+    │   ├── 2026-05-22-00
+    │   │   ├── date.txt
+    │   │   ├── description.txt
+    │   │   ├── duration.txt
+    │   │   ├── title.txt
+    │   │   └── Vol_5_Ep2_June_Goodband.mp3
+    │   ├── 2026-07-04-00
+    │   │   ├── date.txt
+    │   │   ├── description.txt
+    │   │   ├── duration.txt
+    │   │   ├── title.txt
+    │   │   └── Vol5_Ep3.mp3
+    │   ├── 2026-07-09-00
+    │   │   ├── date.txt
+    │   │   ├── description.txt
+    │   │   ├── duration.txt
+    │   │   ├── Episode-54.mp3
+    │   │   └── title.txt
+    │   └── 2026-11-14-00
+    │       ├── date.txt
+    │       ├── description.txt
+    │       ├── duration.txt
+    │       ├── Episode-55-BTV-Unhoused-Camp-Defense.mp3
+    │       └── title.txt
+    ├── feed
+    │   ├── index.html
+    │   ├── index.rss
+    │   ├── index.txt
+    │   └── podcast
+    │       ├── index.html
+    │       ├── index.rss
+    │       └── index.txt
+    ├── index.html
+    ├── README.txt
+    ├── Rss.png
+    └── wp-content
+        ├── uploads
+        │   ├── 2019
+        │   │   ├── 07
+        │   │   │   ├── vermontmovementnews-cover-art-1024x1024.png
+        │   │   │   ├── vermontmovementnews-cover-art-150x150.png
+        │   │   │   ├── vermontmovementnews-cover-art-1568x1568.png
+        │   │   │   ├── vermontmovementnews-cover-art-300x300.png
+        │   │   │   ├── vermontmovementnews-cover-art-768x768.png
+        │   │   │   ├── vermontmovementnews-cover-art.png
+        │   │   │   ├── vol1-episode1.mp3
+        │   │   │   ├── vol1-episode1.mp3.torrent
+        │   │   │   ├── Volume_1_Episode_2.mp3
+        │   │   │   ├── Volume_1_Episode_2.mp3.torrent
+        │   │   │   ├── Volume1_Episode3.mp3
+        │   │   │   ├── Volume1_Episode3.mp3.torrent
+        │   │   │   └── Volume_1_Episode_4_Pam_Ladds_DUMP_Rosemarie_Jackowski_PFOA_Mindy_Blank_ER_DEMO_REPORTBACK-finalfinalcut-1.mp3
+        │   │   ├── 08
+        │   │   │   ├── vol-1-Episode-5-Red-on-combatting-the-alt-right-battle-of-berkely-deplatform-milo.mp3
+        │   │   │   ├── Volume_1_Episode_6_Occupy_Hartford_High_for_FIP_and_Against_ICE_and_Oppose_F35.mp3
+        │   │   │   ├── Volume_1_Episode_7_The_Fightback_Against_ICE.mp3
+        │   │   │   └── Volume_1_Episode_8_antifascist-mobilization-against-fascistic-straight-pride.mp3
+        │   │   ├── 09
+        │   │   │   └── Vol_1_Episode_9_The-_A31_2019_Police_Riot-Final-24k.mp3
+        │   │   ├── 10
+        │   │   │   └── Volume_1_Episode_10.mp3
+        │   │   ├── 11
+        │   │   │   └── Vol_1_Episode_11.mp3
+        │   │   └── 12
+        │   ├── 2020
+        │   │   ├── 01
+        │   │   ├── 02
+        │   │   ├── 03
+        │   │   ├── 04
+        │   │   ├── 05
+        │   │   ├── 06
+        │   │   ├── 07
+        │   │   ├── 08
+        │   │   ├── 09
+        │   │   ├── 10
+        │   │   │   ├── Vol2-EP1.mp3
+        │   │   │   ├── Vol2-EP2.mp3
+        │   │   │   └── vol2_ep3-final.mp3
+        │   │   ├── 11
+        │   │   │   ├── vol_2-ep_4.mp3
+        │   │   │   ├── vol2-ep-5-final-1.mp3
+        │   │   │   └── vol2-ep-5-final.mp3
+        │   │   └── 12
+        │   │       └── vol-2-ep-6-final.mp3
+        │   ├── 2021
+        │   │   ├── 01
+        │   │   ├── 02
+        │   │   ├── 03
+        │   │   ├── 04
+        │   │   ├── 05
+        │   │   ├── 06
+        │   │   ├── 07
+        │   │   ├── 08
+        │   │   ├── 09
+        │   │   ├── 10
+        │   │   ├── 11
+        │   │   └── 12
+        │   ├── 2022
+        │   │   ├── 01
+        │   │   ├── 02
+        │   │   ├── 03
+        │   │   ├── 04
+        │   │   ├── 05
+        │   │   ├── 06
+        │   │   ├── 07
+        │   │   ├── 08
+        │   │   │   ├── Brian_McCrae-Take2.mp3
+        │   │   │   ├── Episode_3.mp3
+        │   │   │   ├── Melissa_Grandi_Statz-final.mp3
+        │   │   │   ├── Vol_3_Ep_5.mp3
+        │   │   │   └── Volume_3_Episode_4.mp3
+        │   │   ├── 09
+        │   │   ├── 10
+        │   │   │   ├── Vol3_Ep10.mp3
+        │   │   │   ├── Vol3_Ep6-Final.mp3
+        │   │   │   ├── Vol3_Ep9.mp3
+        │   │   │   ├── Vol3_Episode7.mp3
+        │   │   │   └── Vol3_Episode8.mp3
+        │   │   ├── 11
+        │   │   └── 12
+        │   ├── 2023
+        │   │   ├── 01
+        │   │   │   └── Vol3_Episode11.mp3
+        │   │   ├── 02
+        │   │   ├── 03
+        │   │   ├── 04
+        │   │   ├── 05
+        │   │   ├── 06
+        │   │   ├── 07
+        │   │   │   ├── Vol_3_Ep_15.mp3
+        │   │   │   └── Vol3_Ep17.mp3
+        │   │   ├── 08
+        │   │   │   ├── ACAB-in-Flagstaff-Free-Epona-Rose.mp3
+        │   │   │   ├── Lauren_Regen_Talks_About_The_Andy_Ngo_trial.mp3
+        │   │   │   └── Talking-With-Polskie-Babscie-The-Polish-Grannies.mp3
+        │   │   ├── 09
+        │   │   │   ├── Vol3_Episode22.mp3
+        │   │   │   └── Volume3_Episode21.mp3
+        │   │   ├── 10
+        │   │   │   ├── Leftists-on-Left-Wing-Antisemitism-panel.mp3
+        │   │   │   └── Vol3_Ep24-The-Brawl-In-BTV.mp3
+        │   │   ├── 11
+        │   │   │   ├── Vol3_Ep26_Daryle_Lamont_Jenkins_discusses_free_speech_on_Ch17.mp3
+        │   │   │   └── Vol3_Episode25_Epona_Rose.mp3
+        │   │   └── 12
+        │   │       └── Vol_3_Ep_27_Discussing_Sticker_Wars_with_Olivia_Taylor.mp3
+        │   ├── 2024
+        │   │   ├── 01
+        │   │   │   ├── VMN-Vol3-Episode28-Lee-Morrigan-and-Free-Speech-final.mp3
+        │   │   │   ├── Vol3_Ep30_A_Discussion_With_leftrenewal_dot_net.mp3
+        │   │   │   └── Volume3_Episode29.mp3
+        │   │   ├── 02
+        │   │   ├── 03
+        │   │   ├── 04
+        │   │   ├── 05
+        │   │   ├── 06
+        │   │   ├── 07
+        │   │   ├── 08
+        │   │   │   └── Vol_4_Ep4_No_Coal_No_Gas.mp3
+        │   │   ├── 09
+        │   │   ├── 10
+        │   │   ├── 11
+        │   │   └── 12
+        │   └── 2025
+        │       ├── 01
+        │       ├── 02
+        │       ├── 03
+        │       ├── 04
+        │       ├── 05
+        │       ├── 06
+        │       ├── 07
+        │       ├── 08
+        │       ├── 09
+        │       ├── 10
+        │       ├── 11
+        │       └── 12
+        └── Volume_1_Episode_10.mp3
+
+151 directories, 372 files
